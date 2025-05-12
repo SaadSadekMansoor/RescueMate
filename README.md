@@ -9,12 +9,6 @@
 - **📱 Multi-Channel Emergency Reporting**  
   Users can report incidents using a responsive mobile/desktop form or a built-in AI chatbot.
 
-- **🧠 AI-Powered Severity Assessment**  
-  Incoming reports are automatically categorized as **Low**, **Medium**, or **High** severity using intelligent branching logic in Copilot Studio.
-
-- **⚡ Automated Workflows & Escalation**  
-  Integrated with **Power Automate**, each incident triggers customized **SOPs**, sends alerts to the correct personnel, and manages escalations automatically.
-
 - **💬 Real-Time Feedback & Comfort Messaging**  
   Users receive immediate status updates, response timelines, and supportive guidance during critical moments.
 
@@ -34,18 +28,16 @@
 | **Power Automate** | Backend logic – SOP automation, escalation handling |
 | **Copilot Studio** | Chatbot for emergency intake and dynamic responses |
 | **Power BI** | Real-time data visualization for responders |
-| **Figma** | Wireframes for mobile and desktop UI |
+| **Power Apps** | Wireframes for mobile and desktop UI |
 
 ---
 
 ## 🔁 How It Works – Workflow Overview
 
 1. **User initiates a report** via chatbot or emergency form.
-2. **Severity is determined** automatically based on inputs.
-3. **Power Automate triggers workflows** aligned with severity levels and SOPs.
-4. **Responders are notified**, and resources are dispatched accordingly.
-5. **User receives real-time updates** and comfort guidance.
-6. **Incident data is visualized** on a Power BI dashboard for monitoring and analysis.
+2. **Responders are notified**, and resources are dispatched accordingly.
+3. **User receives real-time updates** and comfort guidance.
+4. **Incident data is visualized** on a Power BI dashboard for monitoring and analysis.
 
 ---
 
